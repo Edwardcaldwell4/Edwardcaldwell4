@@ -3,7 +3,12 @@
 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-- <b>Using Scoutsuite(AlgoExpert)</b>
+
+- <b>Using Scoutsuite to analyze vulnerabilities and misconfigurations in enterprise environments</b>
+  - https://imgur.com/PL9LJgC
+
+
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
