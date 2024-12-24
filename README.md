@@ -1,5 +1,10 @@
 <h1>Hi, I'm Edward! <br/><a href="https://www.linkedin.com/in/edward-caldwell-62b46140/">Cybersecurity Professional</a>, <a href="https://github.com/Edwardcaldwell4)">Programmer</a>, <a href="https://github.com/Edwardcaldwell4">Network Engineer</a> </h1>
 
+
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+- <b>Using Scoutsuite(AlgoExpert)</b>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
